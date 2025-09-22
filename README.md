@@ -12,6 +12,7 @@ A macro designed for the Roblox game **Fisch**, providing automation and an enha
 - Special developer rods (e.g., **Duskwire**) are **not supported**.  
 - Base configuration files are available in our [Discord server](https://discord.gg/scvyxju7mP).  
 - You can download, modify, and set up your configs there — full setup instructions are also provided.  
+- For light use only to overnight grind coins / xp. This macro is not made for Admin Events or scylla events etc...
 
 ---
 
