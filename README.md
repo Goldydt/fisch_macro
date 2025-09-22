@@ -1,6 +1,6 @@
 # 🎣 Fisch Macro
 
-[![GitHub release](https://img.shields.io/github/v/release/Goldydt/fisch_macro)](https://github.com/Goldydt/fisch_macro/releases/tag/Config)
+[![GitHub release](https://img.shields.io/github/v/release/Goldydt/fisch_macro)](https://github.com/Goldydt/fisch_macro/releases)
 [![License](https://img.shields.io/github/license/Goldydt/fisch_macro)](https://github.com/Goldydt/fisch_macro/blob/main/LICENSE)
 
 A macro designed for the Roblox game **Fisch**, providing automation and an enhanced GUI for a smoother fishing experience.
