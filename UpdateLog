@@ -1,0 +1,26 @@
+**Version: V1.1**
+
+1. Partially fixed Iris V3 and enhanced it with an improved, more user-friendly GUI.
+2. Attached the base config file.
+3. Other remain unchanged.
+
+**Known Issue:**
+
+1. Webhook accuracy is not being recorded correctly and needs to be adjusted or fixed.
+
+Note: 
+The current macro only supports click mode, since navigation mode is broken due to the fishing camera mode being disabled.
+
+---
+
+Version V1.2 
+
+1. Slightly improved the minigame algorithm for clicking movements.
+2. Added a toggle button in the Shake Configuration section (General page) to enable or disable auto-shake.
+3. Other remain unchanged.
+
+Known Issues:
+
+1. Webhook accuracy is not being recorded correctly and needs to be adjusted or fixed.
+
+support / community: https://discord.gg/scvyxju7mP
